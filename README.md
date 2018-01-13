@@ -22,9 +22,9 @@ TODO
   - [x] do-while
   - [x] for
   - [ ] Examples
-- [] Functions
+- [ ] Functions
   - [ ] Examples
-- Recursion
+- [ ] Recursion
 - [ ] Pointers
   - [ ] Introduction
   - [ ] Functions
@@ -34,9 +34,9 @@ TODO
   - [ ] Array of pointers and multidimensional arrays
   - [ ] Pointer to functions
   - [ ] Examples
-- Arrays
-- Strings
-- Storage Classes
-- Structures and Unions
-- Input/Output
-- File Input/Output
+- [ ] Arrays
+- [ ] Strings
+- [ ] Storage Classes
+- [ ] Structures and Unions
+- [ ] Input/Output
+- [ ] File Input/Output
