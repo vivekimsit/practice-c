@@ -1,5 +1,7 @@
 # practice-c
 
+[![Join the chat at https://gitter.im/practice-c](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/practice-c?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Revising C lang
 
 The codes here are just for learning purpose, there may be better ways to write them.
