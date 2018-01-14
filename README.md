@@ -1,6 +1,6 @@
 # practice-c
 
-[![Join the chat at https://gitter.im/practice-c](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/practice-c?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/practice-c/general](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/practice-c/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Revising C lang
 
