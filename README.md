@@ -26,12 +26,12 @@ TODO
   - [ ] Examples
 - [ ] Recursion
 - [ ] Pointers
-  - [ ] Introduction
-  - [ ] Functions
-  - [ ] Arrays
-  - [ ] Pointer arithmentic
-  - [ ] Character ararys
-  - [ ] Array of pointers and multidimensional arrays
+  - [x] Introduction
+  - [x] Functions
+  - [x] Arrays
+  - [x] Pointer arithmentic
+  - [x] Character ararys
+  - [x] Array of pointers and multidimensional arrays
   - [ ] Pointer to functions
   - [ ] Examples
 - [ ] Arrays
