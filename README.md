@@ -34,7 +34,7 @@ TODO
   - [x] Pointer arithmentic
   - [x] Character ararys
   - [x] Array of pointers and multidimensional arrays
-  - [ ] Pointer to functions
+  - [x] Pointer to functions
   - [ ] Examples
 - [ ] Arrays
 - [ ] Strings
@@ -42,3 +42,31 @@ TODO
 - [ ] Structures and Unions
 - [ ] Input/Output
 - [ ] File Input/Output
+
+
+
+Pointers to functions
+---
+
+```c
+int *fp(int, int);
+
+its not the pointer to the function because
+() has higher precedence to * hence its interpreted
+as fp as function which returns a pointer to an int.
+
+int sum(int, int);
+     |
+int (*fp)(int, int);
+
+since, () is left associative hence above
+is pointer to a function which takes two 
+ints and returns an int.
+
+
+fp = sum
+s = sum(5, 6)
+s = (*fp)(5, 6)
+```
+
+The `()` is left associative hence 
