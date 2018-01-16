@@ -38,6 +38,8 @@ TODO
   - [ ] Examples
 - [ ] Arrays
 - [ ] Strings
+  - [x] Basic operations on string
+  - [ ] Examples
 - [ ] Storage Classes
 - [ ] Structures and Unions
 - [ ] Input/Output
