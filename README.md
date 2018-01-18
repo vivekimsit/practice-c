@@ -41,6 +41,8 @@ TODO
   - [x] Basic operations on string
   - [ ] Examples
 - [ ] Storage Classes
+  - [x] Register
+  - [ ] Static
 - [ ] Structures and Unions
 - [ ] Input/Output
 - [ ] File Input/Output
