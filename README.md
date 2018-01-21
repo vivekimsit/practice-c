@@ -40,6 +40,12 @@ TODO
 - [ ] Strings
   - [x] Basic operations on string
   - [ ] Examples
+    - [x] Compare
+    - [x] Concat
+    - [x] Copy
+    - [x] Count
+    - [x] itoa
+    - [x] atoi
 - [ ] Storage Classes
   - [x] Register
   - [ ] Static
