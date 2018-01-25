@@ -50,6 +50,8 @@ TODO
   - [x] Register
   - [ ] Static
 - [ ] Structures and Unions
+  - [x] Malloc
+    - [ ] Process memory model
 - [ ] Input/Output
 - [ ] File Input/Output
 
@@ -79,4 +81,22 @@ s = sum(5, 6)
 s = (*fp)(5, 6)
 ```
 
-The `()` is left associative hence 
+The `()` is left associative hence
+
+
+
+### Malloc
+
+```
+void* malloc(int);
+
+example:
+
+Allocate a memory block of 10 and return the address.
+
+int *p = (int*) malloc(10);
+
+But size of int is platform dependant, hence:
+
+int *p = (int*) malloc(5 * size(int));
+```
