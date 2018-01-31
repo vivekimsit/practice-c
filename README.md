@@ -48,7 +48,8 @@ TODO
     - [x] atoi
 - [ ] Storage Classes
   - [x] Register
-  - [ ] Static
+  - [x] Static
+  - [ ] Global
 - [ ] Structures and Unions
   - [x] Malloc
     - [ ] Process memory model
