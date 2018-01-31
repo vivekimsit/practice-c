@@ -49,7 +49,7 @@ TODO
 - [ ] Storage Classes
   - [x] Register
   - [x] Static
-  - [ ] Global
+  - [x] Global
 - [ ] Structures and Unions
   - [x] Malloc
     - [ ] Process memory model
